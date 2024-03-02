@@ -21,7 +21,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<a href="https://docs.soliditylang.org/en/v0.8.24/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.rawgit.com/pubkey/solidity-cli/c2e68782/docs/solidity.svg" alt ="solidity" width="40" height="40" />
 </a>
 
