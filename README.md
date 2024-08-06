@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prateek.savanur@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/PrateekSavanur)
+- 📄 Know about my experiences [Resume](https://bit.ly/Resume_Prateek)
 
 - 📃 Can read my articles on medium [Medium](https://medium.com/@prateeksavanur)
 
