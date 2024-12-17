@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Foundry**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prateeksavanur.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prateeksavanur.xyz/)
 
 - 💬 Ask me about **Blockchain/Ethereum/Solidity**
 
-- 📫 How to reach me **prateek.savanur@gmail.com**
+- 📫 How to reach me **prateek.savanur@gmail.com** or my [website](https://prateeksavanur.xyz/)
 
 - 📄 Know about my experiences [Resume](https://bit.ly/Resume_Prateek)
 
