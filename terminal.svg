@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="659" viewBox="0 0 860 659" role="img" aria-label="Terminal: Prateek Savanur, Software Engineer, DevOps and Automation">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;white-space:pre}
+.ln{opacity:0;animation:show .01s linear forwards}@keyframes show{to{opacity:1}}.cursor{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="860" height="659" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h840a10 10 0 0 1 10 10v26H0z" fill="#161b22"/>
+<line x1="0" y1="36" x2="860" y2="36" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="430.0" y="23" fill="#7d8590" text-anchor="middle" style="font-size:12px">prateek@arch: ~</text>
+<g class="ln" style="animation-delay:0.30s"><text xml:space="preserve" x="24" y="64"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text></g>
+<g class="ln" style="animation-delay:0.85s"><text xml:space="preserve" x="24" y="86" fill="#c9d1d9">Prateek Savanur</text></g>
+<g class="ln" style="animation-delay:0.92s"><text xml:space="preserve" x="24" y="108" fill="#7d8590">Software Engineer · DevOps &amp; Automation · Bangalore, India</text></g>
+<g class="ln" style="animation-delay:0.99s"><text xml:space="preserve" x="24" y="141"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text></g>
+<g class="ln" style="animation-delay:1.54s"><text xml:space="preserve" x="24" y="163" fill="#c9d1d9">I automate the boring parts of shipping software and run a</text></g>
+<g class="ln" style="animation-delay:1.61s"><text xml:space="preserve" x="24" y="185" fill="#c9d1d9">homelab that lives entirely in Git.</text></g>
+<g class="ln" style="animation-delay:1.68s"><text xml:space="preserve" x="24" y="207" fill="#c9d1d9">Used to write smart contracts. Still write about DeFi.</text></g>
+<g class="ln" style="animation-delay:1.75s"><text xml:space="preserve" x="24" y="240"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan><tspan fill="#e6edf3">tree ~/homelab -L 2</tspan></text></g>
+<g class="ln" style="animation-delay:2.30s"><text xml:space="preserve" x="24" y="262" fill="#c9d1d9">homelab</text></g>
+<g class="ln" style="animation-delay:2.37s"><text xml:space="preserve" x="24" y="284" fill="#c9d1d9">├── proxmox        64 GB RAM · 1 TB SSD · 4 TB HDD</text></g>
+<g class="ln" style="animation-delay:2.44s"><text xml:space="preserve" x="24" y="306" fill="#c9d1d9">├── k3s            1 control plane + 2 workers</text></g>
+<g class="ln" style="animation-delay:2.51s"><text xml:space="preserve" x="24" y="328" fill="#c9d1d9">│   ├── argocd     GitOps for everything</text></g>
+<g class="ln" style="animation-delay:2.58s"><text xml:space="preserve" x="24" y="350" fill="#c9d1d9">│   ├── traefik    ingress + cert-manager TLS</text></g>
+<g class="ln" style="animation-delay:2.65s"><text xml:space="preserve" x="24" y="372" fill="#c9d1d9">│   ├── vaultwarden</text></g>
+<g class="ln" style="animation-delay:2.72s"><text xml:space="preserve" x="24" y="394" fill="#c9d1d9">│   └── jellyfin</text></g>
+<g class="ln" style="animation-delay:2.79s"><text xml:space="preserve" x="24" y="416" fill="#c9d1d9">├── adguard        DNS + ad blocking</text></g>
+<g class="ln" style="animation-delay:2.86s"><text xml:space="preserve" x="24" y="438" fill="#ffb000">└── opnsense       firewall, in progress</text></g>
+<g class="ln" style="animation-delay:2.93s"><text xml:space="preserve" x="24" y="471"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan><tspan fill="#e6edf3">ls ~/tools</tspan></text></g>
+<g class="ln" style="animation-delay:3.48s"><text xml:space="preserve" x="24" y="493" fill="#c9d1d9">terraform  ansible  docker  kubernetes  helm  argocd</text></g>
+<g class="ln" style="animation-delay:3.55s"><text xml:space="preserve" x="24" y="515" fill="#c9d1d9">github-actions  azure  aws  proxmox  bash  powershell</text></g>
+<g class="ln" style="animation-delay:3.62s"><text xml:space="preserve" x="24" y="537" fill="#c9d1d9">python  typescript  node  next.js  solidity</text></g>
+<g class="ln" style="animation-delay:3.69s"><text xml:space="preserve" x="24" y="570"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan><tspan fill="#e6edf3">ls ~/links</tspan></text></g>
+<g class="ln" style="animation-delay:4.24s"><text xml:space="preserve" x="24" y="592" fill="#58a6ff">website/  blog/  linkedin/</text></g>
+<g class="ln" style="animation-delay:4.31s"><text xml:space="preserve" x="24" y="625"><tspan fill="#3fb950">prateek@arch</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8590">$ </tspan></text><rect class="cursor" x="158.4" y="610" width="9" height="19" fill="#e6edf3"/></g>
+</svg>
